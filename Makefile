@@ -1,5 +1,5 @@
 CXX := g++
-TARGET := mediaplayer
+TARGET := fraktur
 BINDIR := .
 
 PREFIX  := /usr/local
